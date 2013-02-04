@@ -1,0 +1,13 @@
+#mid div{font-family:'Century Gothic';color:#d72020;}
+#bookImg{width:300px;height:335px;border:solid 2px #d72020;position:absolute;top:0px;}
+#bookName{position:relative;top:0px;left:450px;color:black;font-size:36px;font-family:'Century Gothic';width:550px;padding:5px;text-align:center;border-radius:25px;background:#f6f6f6;margin:5px;}
+#bookAuthors{position:relative;top:10px;font-size:24px;width:550px;left:450px;text-align:center;background:#f6f6f6;padding:5px;border-radius:25px;margin:5px;}
+#bookSubt{position:relative;top:5px;left:450px;width:550px;color:black;font-size:14px;text-align:center;padding:5px;background:#f6f6f6;border-radius:25px;margin:5px;}
+#bookPublisher{position:relative;top:10px;left:450px;width:550px;font-size:22px;text-align:center;padding:5px;background:#f6f6f6;border-radius:25px;margin:5px;}
+#bookISBN{position:relative;top:10px;left:450px;width:550px;font-size:22px;text-align:center;padding:5px;background:#f6f6f6;border-radius:25px;margin:5px;}
+#bookSub{position:relative;top:20px;left:450px;width:550px;font-size:20px;text-align:center;padding:5px;background:#f6f6f6;border-radius:25px;margin:5px;}
+#bookDes{position:relative;top:100px;font-size:18px;text-align:left;width:950px;background:#f6f6f6;border-radius:25px;margin:5px;padding:15px;}
+#bookLP{position:relative;top:10px;left:450px;width:550px;font-size:18px;text-align:center;padding:5px;background:#f6f6f6;border-radius:25px;margin:5px;}
+#bookImg:hover{width:400px;height:400px;box-shadow:0 0 10px #d72020;border:0;}
+#mid #bookName:hover, #bookAuthors:hover,#bookSubt:hover,#bookPublisher:hover,#bookISBN:hover,#bookSub:hover,#bookDes:hover,#bookLP:hover,#bookPr:hover{background:#3db63d;;color:white;}
+#bookPr{position:relative;top:50px;font-size:18px;text-align:left;background:#f6f6f6;border-radius:25px;margin:5px;padding:5px;width:150px;}

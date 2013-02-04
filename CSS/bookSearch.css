@@ -1,0 +1,42 @@
+.booksFromResult{
+padding:10px;
+background:#f9f9f9;
+color:white;
+width:75%;
+height:100px;
+font-size:18px;
+font-family:'Open Sans';
+position:relative;
+text-align:left;
+right:-200px;margin:25px;
+border-radius:5px;
+}
+#result{
+position:relative;	
+//top:20px;
+
+	
+}
+.booksFromResult div, span{
+color:black;
+}
+.bookThumb{
+}
+.bookTitle{
+top:5px;left:100px;color:#d52020;
+position:absolute;font-weight:bold;font-size:22px;padding:2px;
+}
+.bookAuthor{
+top:50px;left:100px;
+position:absolute;font-size:20px;color:black;padding:2px;
+}
+.bookAuthor:hover{
+color:#d72121;
+}
+.bookSub{
+top:35px;left:100px;
+position:absolute;font-size:12px;padding:2px;
+}
+.booksFromResult:hover{
+background:white;box-shadow:0 0 10px black	;
+}
